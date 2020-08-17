@@ -38,7 +38,7 @@ Guid
     "fontFace" : "consolas",
     "fontSize" : 14,
     "historySize" : 9001,
-    "icon" : "C:\\Program Files\\Git\\mingw64\\share\\git\\git-for-windows.ico",
+    "icon" : "C:\\Users\\＜ユーザ名＞\\scoop\\apps\\git\\2.27.0.windows.1\\mingw64\\share\\git\\git-for-windows.ico",
     "name" : "Git Bash",
     "padding" : "0, 0, 0, 0",
     "snapOnInput" : true,
