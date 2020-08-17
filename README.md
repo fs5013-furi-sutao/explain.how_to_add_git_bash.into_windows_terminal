@@ -32,7 +32,7 @@ Guid
     "acrylicOpacity" : 0.5,
     "closeOnExit" : true,
     "colorScheme" : "Campbell",
-    "commandline" : "C:\\Program Files\\Git\\bin\\bash.exe",
+    "commandline" : "C:\\Users\\＜ユーザ名＞\\scoop\\shims\\git.exe",
     "cursorColor" : "#FFFFFF",
     "cursorShape" : "bar",
     "fontFace" : "consolas",
